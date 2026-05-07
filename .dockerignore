@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Required app files
+!Dockerfile
+!requirements.txt
+!Dashboard.py
+
+!*.png
+
+# CSV files used in dashboard
+!data.csv
+!prediction.csv
+!forecasted_sales_of_A.csv
+!forecasted_sales_of_B.csv
+!forecasted_sales_of_C.csv
+!prediction_store_A.csv
+!prediction_store_B.csv
+!prediction_store_C.csv
