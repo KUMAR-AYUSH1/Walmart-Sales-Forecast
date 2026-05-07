@@ -53,7 +53,7 @@ Result:
 Advanced XGBoost training notebook with:
 
 * Feature scaling
-* Hyperparameter tuning using Optuna
+* Hyperparameter tuning using Optuna⭐
 * Model evaluation
 * Saving the best model
 
@@ -101,17 +101,17 @@ Note:
 Visualization notebook for:
 
 * Prediction plots
-* Actual vs Predicted graphs
+* Actual vs Predicted graphs ⭐
 * Combined store forecasts
 
 ---
 
-## `see2.ipynb`
+## `see2.ipynb ⭐`
 
 Used for:
 
 * Forecasting unseen test data
-* Plotting predictions using:
+* Plotting predictions using: 
 
   * `grid_xgb_A`
   * `grid_xgb_C`
